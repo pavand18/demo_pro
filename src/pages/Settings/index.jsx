@@ -17,7 +17,7 @@ const Settings = () => {
             </button>
           </div>
 
-          {/* <div className="settings_item">
+          <div className="settings_item">
             <img
               src="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde"
               alt=""
@@ -29,7 +29,7 @@ const Settings = () => {
             <button className="btn btn-danger ml-auto">
               <i className="bi bi-box-arrow-right"></i>
             </button>
-          </div> */}
+          </div>
 
           {/* <div className="flex flex-col gap-1.5">
             <div className="settings_item ">
